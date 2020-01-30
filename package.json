@@ -1,0 +1,15 @@
+{
+  "name": "desafio01",
+  "version": "1.0.0",
+  "description": "Desafio 01 do GoStack",
+  "main": "index.js",
+  "repository": "https://github.com/caiousper2011/desafio01.git",
+  "author": "Caio Barbosa de Almeida",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
